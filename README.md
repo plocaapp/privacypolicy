@@ -61,9 +61,10 @@ This policy is effective as of 2022-08-26
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
-Jourdain Guillaume & Ha Doyoung
-Seoul, South Korea
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:  <br>
+
+Jourdain Guillaume & Ha Doyoung  <br>
+Seoul, South Korea  <br>
 plocaapp@gmail.com
 
 
